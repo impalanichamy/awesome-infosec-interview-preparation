@@ -4,8 +4,8 @@
 
 * [Cybersecurity](https://github.com/impalanichamy/awesome-infosec-interview-questions#Cybersecurity) 
 * [WebApp-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#WebApp-Security)
-* [MobileApp-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions)
-* [Api-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions)
+* [MobileApp-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#MobileApp-Security)
+* [Api-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#Api-Security)
 * [Cloud-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#Cloud-Security)
 * [Network-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#Network-Security)
 * [IOT-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#IOT-Security)
