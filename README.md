@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [cybersecurity](https://github.com/impalanichamy/awesome-infosec-interview-questions#Cybersecurity) 
+* [Cybersecurity](https://github.com/impalanichamy/awesome-infosec-interview-questions#Cybersecurity) 
 * WebApp-Security
 * MobileApp-Security
 * Api-Security
