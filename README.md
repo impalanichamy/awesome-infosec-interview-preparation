@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [Cybersecurity](https://github.com/impalanichamy/awesome-infosec-interview-questions#Cybersecurity) 
+* [CyberSecurity](https://github.com/impalanichamy/awesome-infosec-interview-questions#CyberSecurity) 
 * [WebApp-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#WebApp-Security)
 * [MobileApp-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#MobileApp-Security)
 * [Api-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#Api-Security)
@@ -11,7 +11,7 @@
 * [IOT-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#IOT-Security)
 * [Secure-Code-Review](https://github.com/impalanichamy/awesome-infosec-interview-questions#Secure-Code-Review)
 
-## Cybersecurity
+## CyberSecurity
 
 ## WebApp-Security
 
