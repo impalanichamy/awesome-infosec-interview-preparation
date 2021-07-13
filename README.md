@@ -145,3 +145,21 @@
     This is definitely suspicious. Immediately report the problem to your supervisor and the ITS Support Center: itrequest.ucsc.edu, 459-HELP (4357), help@ucsc.edu or Kerr Hall 
     room 54, M-F 8AM-5PM. Also, since it seems possible that someone is controlling the computer remotely, it is best if you can disconnect the computer from the network (and 
     turn off wireless if you have it) until help arrives. If possible, don’t turn off the computer.
+    
+  * Below is a list of passwords pulled out a database.
+     A. @#$)*&^%
+     B. akHGksmLN
+     C. USc4Evr!
+     D. Password1
+    Which of the following passwords meets UCSC’s password requirements?
+    ### Answer is UcSc4Evr!
+    This is the only choice that meets all of the following UCSC requirements:
+    At least 8 characters in length.Contains at least 3 of the following 4 types of characters: lower case letters, upper case letters, numbers, special characters. Not a word 
+    preceded or followed by a digit
+    
+  * You receive an email from your bank telling you there is a problem with your account. The email provides instructions and a link so you can log into your account and fix the 
+    problem.
+    ### What should you do?
+    Delete the email. Better yet, use the web client (e.g. gmail, yahoo mail, etc.) and report it as spam or phishing, then delete it.
+    Any unsolicited email or phone call asking you to enter your account information, disclose your password, financial account information, social security number, or other         personal or private information is suspicious – even if it appears to be from a company you are familiar with. Always contact the sender using a method you know is 
+    legitimate to verify that the message is from them.
