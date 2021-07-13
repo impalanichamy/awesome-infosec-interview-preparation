@@ -86,23 +86,28 @@
   * What is Microsoft Baseline Security Analyzer?
   * Explain social engineering and its attacks.
   * Discuss security-related aspects between C, C++, and Java
-  *
-  *
+  * What is static and dynamic testing?
+  * What is use-case testing?
   * What is a distributed denial-of-service attack (DDoS)
   * Explain the concept of session hijacking.
   * Explain honeypot and its Types.
   * Define WEP cracking. 
-  * 
+  * What are the types of threats a company can face?
   * What is a security auditing?
   * Explain phishing.
   * What is Nano-scale encryption?
-  *
+  * How does email work?
   * Explain the sequence of a TCP connection.
   * Define hybrid attacks.
   * What is the use of EtterPeak tool?
-  * 
+  * What is virtual memory?
   * Define accidental threats
   * What do you mean by Chain of Custody?
+  * What are the various types of operating systems?
+  * What is the difference between microkernel and macrokernel?
+  * Which shells are used in Linux?
+  * What is ransomware?
+  * 
 ## WebApp-Security
   *  What are HTTP response codes?
   *  Which is more secure SSL or HTTPS?
