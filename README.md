@@ -12,6 +12,16 @@
 * [Secure-Code-Review](https://github.com/impalanichamy/awesome-infosec-interview-questions#Secure-Code-Review)
 
 ## CyberSecurity
+  * What is Cryptography?
+  * What is the difference between Symmetric and Asymmetric encryption?
+  * What is the difference between IDS and IPS?
+  * Explain CIA triad.
+  * How is Encryption different from Hashing?
+  * What is a Firewall and why is it used?
+  * What is the difference between VA(Vulnerability Assessment) and PT(Penetration Testing)?
+  * What is a three-way handshake?
+  * What are the response codes that can be received from a Web Application?
+  * What is traceroute? Why is it used?
 
 ## WebApp-Security
 
