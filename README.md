@@ -241,3 +241,20 @@
     This was actually the result of a hacked password. Using passwords that can’t be easily guessed, and protecting your passwords by not sharing them or writing them down can       help to prevent this. Passwords should be at least 8 characters in length and use a mixture of upper and lower case letters, numbers, and symbols. Even though in this case       it was a hacked password, other things that could possibly lead to this are:
          Out of date patches/updates
          No anti-virus software or out of date anti-virus software
+         
+  * What are the consequences if private keys of a Root CA gets compromised?
+    
+    If you have rogue certificates of a well-known company, as an attacker, how can you use it for you own benefit?
+    As a security threat analyst, what will be your approach to respond to this incident? Securing Infra, servers and people!
+    [Answer](https://darknetdiaries.com/transcript/3/)
+
+  * How would you check the signature of a binary and restrict any unsigned binaries to run on a machine(Win/Linux/Mac)
+    [Answer](https://docs.microsoft.com/en-us/windows/win32/seccrypto/using-signtool-to-verify-a-file-signature)
+    [Answer2](https://blog.rapid7.com/2019/01/03/santas-elfs-running-linux-executables-without-execve/)
+
+  * How can I restrict the normal user to run only limited set of commands in Linux?
+    [Answer](https://access.redhat.com/solutions/65822)
+
+  * Interviewer gives you an obfuscated Powershell script and asks details what can you extract from this?
+    [Answer](https://neodymiumphi.sh/BlueTeamLabs-Malicious-PowerShell-Analysis/)
+    [answer](https://malware.news/t/deobfuscating-powershell-putting-the-toothpaste-back-in-the-tube)
