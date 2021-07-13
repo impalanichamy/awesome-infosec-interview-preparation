@@ -69,14 +69,18 @@
 ## Secure-Code-Review
 
 ## Scenario-based-questions
- *  Here’s a situation- You receive the following email from the help desk:
- Dear XYZ Email user,
-
- To create space for more users we’re deleting all inactive email accounts. Here’s what you have to send to save your account from getting deleted:
-
- Name (first and last):
- Email Login:
- Password:
- Date of birth:
- Alternate email
- If we don’t receive the above information from you by the end of the week, your email account will be terminated.
+  * Here’s a situation- You receive the following email from the help desk:
+    Dear XYZ Email user,
+    To create space for more users we’re deleting all inactive email accounts. Here’s what you have to send to save your account from getting deleted:
+    Name (first and last):
+    Email Login:
+    Password:
+    Date of birth:
+    Alternate email
+    If we don’t receive the above information from you by the end of the week, your email account will be terminated.
+    ### If you’re a user what do you do? Justify your answer.
+    This email is a classic example of “phishing” – trying to trick you into “biting”. The justification is the generalized way of addressing the receiver which is used in mass     spam emails.Above that, a corporate company will never ask for personal details on mail.They want your information. Don’t respond to email, instant messages (IM),   
+    texts,phone calls, etc., asking you for your password or other private information.You should never disclose your password to anyone, even if they say they work for UCSC,   
+    ITS, or  other campus organizations.
+    
+  *  
