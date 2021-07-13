@@ -10,6 +10,7 @@
 * [Network-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#Network-Security)
 * [IOT-Security](https://github.com/impalanichamy/awesome-infosec-interview-questions#IOT-Security)
 * [Secure-Code-Review](https://github.com/impalanichamy/awesome-infosec-interview-questions#Secure-Code-Review)
+* [Scenario-based-questions](https://github.com/impalanichamy/awesome-infosec-interview-questions#Scenario-based-questions)
 
 ## CyberSecurity
   * What is Cryptography?
@@ -66,3 +67,5 @@
 ## IOT-Security
 
 ## Secure-Code-Review
+
+## Scenario-based-questions
