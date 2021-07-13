@@ -93,7 +93,15 @@
   * Explain honeypot and its Types.
   * Define WEP cracking. 
   * What are various WEP cracking tools?
-  *  
+  * What is a security auditing?
+  * Explain phishing.
+  * What is Nano-scale encryption?
+  * Explain ARP Poisoning
+  * Explain the sequence of a TCP connection.
+  * Define hybrid attacks.
+  * What is the use of EtterPeak tool?
+  * what is nmap?
+  * Define accidental threats
 ## WebApp-Security
 
 ## MobileApp-Security
