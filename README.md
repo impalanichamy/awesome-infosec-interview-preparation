@@ -69,3 +69,14 @@
 ## Secure-Code-Review
 
 ## Scenario-based-questions
+ *  Here’s a situation- You receive the following email from the help desk:
+ Dear XYZ Email user,
+
+ To create space for more users we’re deleting all inactive email accounts. Here’s what you have to send to save your account from getting deleted:
+
+ Name (first and last):
+ Email Login:
+ Password:
+ Date of birth:
+ Alternate email
+ If we don’t receive the above information from you by the end of the week, your email account will be terminated.
