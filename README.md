@@ -83,4 +83,23 @@
     texts,phone calls, etc., asking you for your password or other private information.You should never disclose your password to anyone, even if they say they work for UCSC,   
     ITS, or  other campus organizations.
     
-  *  
+  * A friend of yours sends an e-card to your mail. You have to click on the attachment to get the card.
+    
+    ### What do you do? Justify your answer
+    
+    There are four risks here:
+    Some attachments contain viruses or other malicious programs, so just in general, it’s risky to open unknown or unsolicited attachments.
+    Also, in some cases just clicking on a malicious link can infect a computer, so unless you are sure a link is safe, don’t click on it.
+    Email addresses can be faked, so just because the email says it is from someone you know, you can’t be certain of this without checking with the person.
+    Finally, some websites and links look legitimate, but they’re really hoaxes designed to steal your information.
+    
+  * One of the staff members in XYZ subscribes to many free magazines. Now, to activate her subscriptions one of the magazines asked for her month of birth, second asked for her     year of birth, the other one asked for her maiden name.
+    
+    ### What do you infer from this situation? Justify.
+
+    All three newsletters probably have the same parent company or are distributed through the same service. The parent company or service can combine individual pieces of    
+    seemingly-harmless information and use or sell it for identity theft
+    It is even possible that there is a fourth newsletter that asks for a day of birth as one of the activation questions
+    Often questions about personal information are optional. In addition to being suspicious about situations like the one described here, never provide personal information    
+    when it is not legitimately necessary, or to people or companies, you don’t personally know. 
+ 
