@@ -85,24 +85,29 @@
   * Define CryptoAPI
   * What is Microsoft Baseline Security Analyzer?
   * Explain social engineering and its attacks.
-  * What is IP and MAC Addresses?
-  * Name some tools used for packet sniffing.
-  * List out the types of sniffing attacks.
+  * 
+  *
+  *
   * What is a distributed denial-of-service attack (DDoS)
   * Explain the concept of session hijacking.
   * Explain honeypot and its Types.
   * Define WEP cracking. 
-  * What are various WEP cracking tools?
+  * 
   * What is a security auditing?
   * Explain phishing.
   * What is Nano-scale encryption?
-  * Explain ARP Poisoning
+  *
   * Explain the sequence of a TCP connection.
   * Define hybrid attacks.
   * What is the use of EtterPeak tool?
-  * what is nmap?
+  * 
   * Define accidental threats
+  * What do you mean by Chain of Custody?
 ## WebApp-Security
+  *  What are HTTP response codes?
+  *  Which is more secure SSL or HTTPS?
+  *  What is an active reconnaissance? 
+  *   
 
 ## MobileApp-Security
 
@@ -111,6 +116,14 @@
 ## Cloud-Security
 
 ## Network-Security
+  * What is the difference between a false positive and a false negative in IDS?
+  * what is nmap?
+  * Explain ARP Poisoning
+  * What are various WEP cracking tools?
+  * List out the types of sniffing attacks.
+  * What is IP and MAC Addresses?
+  * Name some tools used for packet sniffing.
+  * 
 
 ## IOT-Security
 
