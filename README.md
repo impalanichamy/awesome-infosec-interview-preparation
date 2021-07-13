@@ -130,3 +130,18 @@
     Account and deposit information is sensitive data that could be used for identity theft. Sending this or any kind of sensitive information by email is very risky because   
     email is typically not private or secure. Anyone who knows how can access it anywhere along its route.
     As an alternative, the two offices could have called each other or worked with ITS to send the information a more secure way.
+    
+  * The mouse on your computer screen starts to move around on its own and click on things on your desktop. What do you do?
+     a) Call your co-workers over so they can see
+     b) Disconnect your computer from the network
+     c) Unplug your mouse
+     d) Tell your supervisor
+     e) Turn your computer off
+     f) Run anti-virus
+     g) All of the above
+    Select all the options that apply.
+    ### Right answer is B & D.
+    
+    This is definitely suspicious. Immediately report the problem to your supervisor and the ITS Support Center: itrequest.ucsc.edu, 459-HELP (4357), help@ucsc.edu or Kerr Hall 
+    room 54, M-F 8AM-5PM. Also, since it seems possible that someone is controlling the computer remotely, it is best if you can disconnect the computer from the network (and 
+    turn off wireless if you have it) until help arrives. If possible, don’t turn off the computer.
