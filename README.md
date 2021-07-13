@@ -1,4 +1,4 @@
-# awesome-infosec-interview-questions
+# awesome-infosec-interview-preparation
 
 ## Table of Contents
 
