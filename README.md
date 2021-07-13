@@ -85,7 +85,7 @@
   * Define CryptoAPI
   * What is Microsoft Baseline Security Analyzer?
   * Explain social engineering and its attacks.
-  * 
+  * Discuss security-related aspects between C, C++, and Java
   *
   *
   * What is a distributed denial-of-service attack (DDoS)
@@ -123,6 +123,11 @@
   * List out the types of sniffing attacks.
   * What is IP and MAC Addresses?
   * Name some tools used for packet sniffing.
+  * Define Unicasting, Multicasting, and Broadcasting.
+  * What is DNS?
+  * What is Data encapsulation in networking?
+  * What is the difference between Domain and Workgroup?
+  * 
   * 
 
 ## IOT-Security
