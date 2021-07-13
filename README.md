@@ -102,4 +102,31 @@
     It is even possible that there is a fourth newsletter that asks for a day of birth as one of the activation questions
     Often questions about personal information are optional. In addition to being suspicious about situations like the one described here, never provide personal information    
     when it is not legitimately necessary, or to people or companies, you don’t personally know. 
+    
+  * In our computing labs, print billing is often tied to the user’s login. Sometimes people call to complain about bills for printing they never did only to find out that the       bills are, indeed, correct.
+  
+    ### What do you infer from this situation? Justify.
+
+    Sometimes they realize they loaned their account to a friend who couldn’t remember his/her password, and the friend did the printing. Thus the charges. It’s also possible  
+    that somebody came in behind them and used their account
+    This is an issue with shared or public computers in general. If you don’t log out of the computer properly when you leave, someone else can come in behind you and retrieve 
+    what you were doing, use your accounts, etc. Always log out of all accounts, quit programs, and close browser windows before you walk away.
+    
+  * There is this case that happened in my computer lab. A friend of mine used their yahoo account at a computer lab on campus. She ensured that her account was not left open   
+    before she left the lab. Someone came after her and used the same browser to re-access her account. and they started sending emails from it.
+    
+    ### What do you think might be going on here?
+
+    The first person probably didn’t log out of her account, so the new person could just go to history and access her account.
+    Another possibility is that she did log out, but didn’t clear her web cache. (This is done through the browser menu to clear pages that the browser has saved for future 
+    use
  
+  * Two different offices on campus are working to straighten out an error in an employee’s bank account due to a direct deposit mistake.
+    Office #1 emails the correct account and deposit information to office #2, which promptly fixes the problem. The employee confirms with the bank that everything has, indeed, 
+    been straightened out.
+    
+    ### What is wrong here?
+
+    Account and deposit information is sensitive data that could be used for identity theft. Sending this or any kind of sensitive information by email is very risky because   
+    email is typically not private or secure. Anyone who knows how can access it anywhere along its route.
+    As an alternative, the two offices could have called each other or worked with ITS to send the information a more secure way.
