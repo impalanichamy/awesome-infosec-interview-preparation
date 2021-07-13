@@ -14,6 +14,7 @@
 
 ## CyberSecurity
   * What is Cryptography?
+  * What is CIA?
   * What is the difference between Symmetric and Asymmetric encryption?
   * What is the difference between IDS and IPS?
   * Explain CIA triad.
@@ -53,7 +54,46 @@
   * What is the difference between VPN and VLAN?
   * Explain Phishing and how to prevent it?
   * Explain SQL Injection and how to prevent it?
-  * 
+  * What is cybersecurity?
+  * What are the elements of cybersecurity?
+  * What are the advantages of cyber security?
+  * Explain the difference between asymmetric and symmetric encryption.
+  * Explain WAF
+  * What is network sniffing?
+  * What is the importance of DNS monitoring?
+  * What is SSH?
+  * Is SSL protocol enough for network security
+  * What is black box testing and white box testing?
+  * Define the term residual risk. What are three ways to deal with risk?
+  * Define Exfiltration.
+  * What do you mean by penetration testing?
+  * What is exploit in network security?
+  * How to make the user authentication process more secure?
+  * What are the risks associated with public Wi-Fi?
+  * What is Data Encryption? Why it is important in network security?
+  * Give some examples of a symmetric encryption algorithm.
+  * Explain a buffer overflow attack.
+  * Define Spyware.
+  * Explain the main difference between Diffie-Hellman and RSA.
+  * What is a remote desktop protocol?
+  * Define Forward Secrecy.
+  * Explain the concept of IV in encryption.
+  * Explain the difference between stream cipher and block cipher.
+  * What is impersonation?
+  * What do you mean by SRM?
+  * What do you mean by Authenticode?
+  * Define CryptoAPI
+  * What is Microsoft Baseline Security Analyzer?
+  * Explain social engineering and its attacks.
+  * What is IP and MAC Addresses?
+  * Name some tools used for packet sniffing.
+  * List out the types of sniffing attacks.
+  * What is a distributed denial-of-service attack (DDoS)
+  * Explain the concept of session hijacking.
+  * Explain honeypot and its Types.
+  * Define WEP cracking. 
+  * What are various WEP cracking tools?
+  *  
 ## WebApp-Security
 
 ## MobileApp-Security
