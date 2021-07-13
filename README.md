@@ -164,9 +164,9 @@
     Any unsolicited email or phone call asking you to enter your account information, disclose your password, financial account information, social security number, or other         personal or private information is suspicious – even if it appears to be from a company you are familiar with. Always contact the sender using a method you know is 
     legitimate to verify that the message is from them.
     
-  * A while back, the IT folks got a number of complaints that one of our campus computers was sending out Viagra spam. They checked it out, and the reports were true: a hacker    had installed a program on the computer that made it automatically send out tons of spam email without the computer owner’s knowledge.
-   Cybersecurity Interview Questions. 
-   ### How do you think the hacker got into the computer to set this up?
-   This was actually the result of a hacked password. Using passwords that can’t be easily guessed, and protecting your passwords by not sharing them or writing them down can      help to prevent this. Passwords should be at least 8 characters in length and use a mixture of upper and lower case letters, numbers, and symbols. Even though in this case it    was a hacked password, other things that could possibly lead to this are:
+  * A while back, the IT folks got a number of complaints that one of our campus computers was sending out Viagra spam. They checked it out, and the reports were true: a hacker     had installed a program on the computer that made it automatically send out tons of spam email without the computer owner’s knowledge.
+    Cybersecurity Interview Questions. 
+    ### How do you think the hacker got into the computer to set this up?
+    This was actually the result of a hacked password. Using passwords that can’t be easily guessed, and protecting your passwords by not sharing them or writing them down can       help to prevent this. Passwords should be at least 8 characters in length and use a mixture of upper and lower case letters, numbers, and symbols. Even though in this case       it was a hacked password, other things that could possibly lead to this are:
          Out of date patches/updates
          No anti-virus software or out of date anti-virus software
