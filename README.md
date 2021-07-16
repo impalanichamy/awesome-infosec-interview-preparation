@@ -115,6 +115,14 @@
   *   
 
 ## MobileApp-Security
+  **ANDROID**
+  * Tools Used For Mobile app Pentesting? 
+  * What is Static Analysis?
+  * What is Dynamic Analysis?
+  * Explain SSL Pinning?
+  * What are the possible ways to bypass SSL Pinning?
+  * List OWASP top 10 for mobile application testing
+  
 
 ## Api-Security
 
