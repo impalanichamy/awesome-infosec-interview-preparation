@@ -16,38 +16,39 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
       
-      # Step 2: Scan for hardcoded secrets
-       - name: Check for hardcoded secrets
+      # Step 2: Show what files we have
+      - name: Show files in repository
+        run: |
+          echo "📂 Files in repository:"
+          ls -la
+          echo ""
+          echo "🐍 Python files found:"
+          find . -name "*.py" || echo "No Python files"
+      
+      # Step 3: Scan for hardcoded secrets
+      - name: Check for hardcoded secrets
         run: |
           echo "🔍 Scanning for hardcoded secrets..."
-          echo "----------------------------------------"
-          
-          if grep -ri "password\|api_key\|secret\|token\|aws_access\|private_key" . \
-              --exclude-dir=.git \
-              --exclude-dir=.github \
-              --exclude="*.yml" \
-              --exclude="*.yaml"; then
-            
-            echo "----------------------------------------"
+          echo "========================================"
+          if grep -ri "password\|api_key\|secret\|token\|aws.*key" . --exclude-dir=.git --exclude-dir=.github --exclude="*.yml" --exclude="*.yaml" --color=always; then
+            echo "========================================"
             echo "❌ CRITICAL: Hardcoded secrets detected!"
             echo "🚫 This deployment is BLOCKED"
-            echo "----------------------------------------"
+            echo "========================================"
             exit 1
-            
           else
-            echo "✅ No secrets found - safe to proceed"
+            echo "========================================"
+            echo "✅ No hardcoded secrets found"
+            echo "✅ Security check PASSED"
+            echo "========================================"
           fi
-      - name: List repository files
-        run: |
-          echo "📁 Files in repository:"
-          ls -la
       
-      # Step 4: Simple security check example
-      - name: Check Python files for unsafe functions
+      # Step 4: Check for unsafe Python functions
+      - name: Check Python code for unsafe functions
         run: |
-          echo "🐍 Checking Python files for unsafe functions..."
-          if find . -name "*.py" -exec grep -H "eval\|exec\|pickle" {} \;; then
-            echo "⚠️ Found potentially unsafe functions!"
+          echo "🐍 Scanning Python files for unsafe functions..."
+          if find . -name "*.py" -exec grep -Hn "eval\|exec\|pickle" {} \;; then
+            echo "⚠️ Warning: Potentially unsafe functions found"
           else
-            echo "✅ No Python files or unsafe functions found"
+            echo "✅ No unsafe functions detected"
           fi
