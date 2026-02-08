@@ -1,0 +1,43 @@
+name: My First Security Scan
+
+# This workflow runs whenever you push code
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  security-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Download your code
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      # Step 2: Scan for hardcoded secrets
+      - name: Check for hardcoded secrets
+        run: |
+          echo "🔍 Scanning for hardcoded secrets..."
+          if grep -r "password\|api_key\|secret\|token" . --exclude-dir=.git; then
+            echo "⚠️ WARNING: Potential secrets found!"
+          else
+            echo "✅ No obvious secrets found"
+          fi
+      
+      # Step 3: List all files (just to see what's there)
+      - name: List repository files
+        run: |
+          echo "📁 Files in repository:"
+          ls -la
+      
+      # Step 4: Simple security check example
+      - name: Check Python files for unsafe functions
+        run: |
+          echo "🐍 Checking Python files for unsafe functions..."
+          if find . -name "*.py" -exec grep -H "eval\|exec\|pickle" {} \;; then
+            echo "⚠️ Found potentially unsafe functions!"
+          else
+            echo "✅ No Python files or unsafe functions found"
+          fi
